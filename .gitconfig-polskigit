@@ -1,0 +1,17 @@
+[alias]
+        zatwierdz = commit
+        pchnij = push
+        ciagnij = pull
+        aportuj = fetch
+        przebazuj = rebase
+        wyselekcjonuj = cherry-pick
+        zlacz = merge
+        inicjalizuj = init
+        sklonuj = clone
+        dodaj = add
+        stan-rzeczy = status
+        sprawdz = checkout
+        zrodlo = remote
+        znajdz = grep
+        zresetuj = reset
+
